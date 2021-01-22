@@ -21,3 +21,5 @@ for i in range(count):
 	time.sleep(waitTime)
 
 print('Gönderildi')
+
+#Samomen
