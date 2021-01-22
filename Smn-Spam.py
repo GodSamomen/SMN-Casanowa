@@ -23,3 +23,4 @@ for i in range(count):
 print('Gönderildi')
 
 #Samomen
+#S
